@@ -76,7 +76,7 @@ Seed is fixed (`SEED = 42`) for reproducibility.
 
 Each demo notebook produces:
 - Inline benchmark results and visualizations
-- Interactive HTML charts saved to the project directory
+- Interactive HTML charts saved to the output directory
 - Temporary data files (cleaned up automatically)
 
 ## Dependencies
